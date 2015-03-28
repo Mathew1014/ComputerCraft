@@ -3,7 +3,7 @@
 
 -- Based on the original work by bacon_donut
 -- http://pastebin.com/vhn1z23v
--- http://twitch.tv/bacon_donut
+-- http://twitch.tv/STAHPlive
 
 -- This is formatted to fit on a 1x3 wall of Advanced Monitors with an Advanced Computer connected to a side
 -- To get this to work you need to edit the streamid variable then run these five commands:
